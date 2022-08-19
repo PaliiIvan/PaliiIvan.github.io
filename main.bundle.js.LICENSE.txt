@@ -1,0 +1,36 @@
+/*!
+ * CustomEase 3.10.4
+ * https://greensock.com
+ *
+ * @license Copyright 2008-2022, GreenSock. All rights reserved.
+ * Subject to the terms at https://greensock.com/standard-license or for
+ * Club GreenSock members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/*!
+ * GSAP 3.10.4
+ * https://greensock.com
+ *
+ * @license Copyright 2008-2022, GreenSock. All rights reserved.
+ * Subject to the terms at https://greensock.com/standard-license or for
+ * Club GreenSock members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/*!
+ * paths 3.10.4
+ * https://greensock.com
+ *
+ * Copyright 2008-2022, GreenSock. All rights reserved.
+ * Subject to the terms at https://greensock.com/standard-license or for
+ * Club GreenSock members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/**
+ * vivus - JavaScript library to make drawing animation on SVG
+ * @version v0.4.6
+ * @link https://github.com/maxwellito/vivus
+ * @license MIT
+ */
